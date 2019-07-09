@@ -1,0 +1,27 @@
+a = a0 + 14 * 182
+
+MediumJump:
+
+if (a == 0)
+{
+    a = a0 + 14 * 182
+}
+
+b = a
+a = b / 2
+
+if (b % 2 == 0)
+{
+    yield return 0
+}
+else
+{
+    yield return 1
+}
+
+goto MediumJump
+
+//This is spitting out the bits of a0 + 14*182
+//I need the lowest bit-alternating form
+//14*182 = 0b100111110100
+//0b101010101010 - 0b100111110100 = 0b10110110 = **182**

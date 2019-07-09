@@ -1,0 +1,30 @@
+d = a
+c = 14
+b = 182
+d++
+b--
+jnz b -2
+c--
+jnz c -5
+a = d
+noop
+b = a
+a = 0
+c = 2
+jnz b 2
+jnz 1 6
+b--
+c--
+jnz c -4
+a++
+jnz 1 -7
+b = 2
+jnz c 2
+jnz 1 4
+b--
+c--
+jnz 1 -4
+noop
+out b
+jnz a -19
+jnz 1 -21

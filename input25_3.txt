@@ -1,0 +1,27 @@
+a = a0 + 14 * 182
+
+MediumJump:
+
+if (a == 0)
+{
+    a = a0 + 14 * 182
+}
+
+b = a
+a = 0
+
+while(true)
+{
+    if (b == 0)
+    {
+        yield return 0
+        goto MediumJump
+    }
+    else if (b == 1)
+    {
+        yield return 1
+        goto MediumJump
+    }
+    b -= 2;
+    a++;
+}

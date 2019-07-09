@@ -1,0 +1,30 @@
+A = 1
+B = 1
+C = 0
+D = 26
+
+if (C != 0)
+{
+    C = 0
+    D += 7
+}
+
+//Fibonacci's sequence!
+//-1 indexed element of the fib sequence, then increased by 12*16
+For (int i = 0; i < D; i++)
+{
+    C = A
+    A += B
+    B = C
+}
+
+A += 12*16
+
+
+//317811 + 12 * 16
+//318003
+
+//Part 2:
+//fib(35) + 12 * 16
+//9227465 + 12 * 16
+//9227657
