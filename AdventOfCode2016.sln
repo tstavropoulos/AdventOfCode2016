@@ -3,53 +3,53 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01", "Day01\Day01.csproj", "{3019163E-BC4E-4B6C-972D-3F07ACFAA64D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01 - No Time for a Taxicab", "Day01\Day01 - No Time for a Taxicab.csproj", "{3019163E-BC4E-4B6C-972D-3F07ACFAA64D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02", "Day02\Day02.csproj", "{12774E30-B10B-4388-B2D7-50BA710D4F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02 - Bathroom Security", "Day02\Day02 - Bathroom Security.csproj", "{12774E30-B10B-4388-B2D7-50BA710D4F38}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03", "Day03\Day03.csproj", "{F8B026B6-8954-45FF-8E87-88BB40CA7765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03 - Squares With Three Sides", "Day03\Day03 - Squares With Three Sides.csproj", "{F8B026B6-8954-45FF-8E87-88BB40CA7765}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04", "Day04\Day04.csproj", "{D468F3F3-0D79-425E-826F-464EE393CAAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04 - Security Through Obscurity", "Day04\Day04 - Security Through Obscurity.csproj", "{D468F3F3-0D79-425E-826F-464EE393CAAB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05", "Day05\Day05.csproj", "{FAF35292-BD8E-4C8D-84D0-E5458594D028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05 - How About a Nice Game of Chess", "Day05\Day05 - How About a Nice Game of Chess.csproj", "{FAF35292-BD8E-4C8D-84D0-E5458594D028}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06", "Day06\Day06.csproj", "{66357A29-B1F3-4E80-B42B-3ADF9B2FDC98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06 - Signals and Noise", "Day06\Day06 - Signals and Noise.csproj", "{66357A29-B1F3-4E80-B42B-3ADF9B2FDC98}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07", "Day07\Day07.csproj", "{79B03639-CBB0-4AB3-9243-046ABD65AD83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07 - Internet Protocol Version 7", "Day07\Day07 - Internet Protocol Version 7.csproj", "{79B03639-CBB0-4AB3-9243-046ABD65AD83}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day08", "Day08\Day08.csproj", "{E0BCBFA2-30EB-4C1D-AFB9-528807E66414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day08 - Two-Factor Authentication", "Day08\Day08 - Two-Factor Authentication.csproj", "{E0BCBFA2-30EB-4C1D-AFB9-528807E66414}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09", "Day09\Day09.csproj", "{24C61B92-0CD1-4AFA-8877-176596743819}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09 - Explosives in Cyberspace", "Day09\Day09 - Explosives in Cyberspace.csproj", "{24C61B92-0CD1-4AFA-8877-176596743819}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10", "Day10\Day10.csproj", "{0FA021CB-0CB0-4088-A7DF-363E71FC2B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10 - Balance Bots", "Day10\Day10 - Balance Bots.csproj", "{0FA021CB-0CB0-4088-A7DF-363E71FC2B72}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11", "Day11\Day11.csproj", "{432306A9-B2D5-45AC-BEA7-DEB91F0B2F11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11 - Radioisotope Thermoelectric Generators", "Day11\Day11 - Radioisotope Thermoelectric Generators.csproj", "{432306A9-B2D5-45AC-BEA7-DEB91F0B2F11}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13", "Day13\Day13.csproj", "{5F759F44-DD73-427A-8C2F-D8D8F869521E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13 - A Maze of Twisty Little Cubicles", "Day13\Day13 - A Maze of Twisty Little Cubicles.csproj", "{5F759F44-DD73-427A-8C2F-D8D8F869521E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14", "Day14\Day14.csproj", "{A6695C76-27E0-43FE-B7BA-D4CB98D875AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14 - One-Time Pad", "Day14\Day14 - One-Time Pad.csproj", "{A6695C76-27E0-43FE-B7BA-D4CB98D875AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15", "Day15\Day15.csproj", "{6926077E-9228-40E3-80E5-1C9404BE72FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15 - Timing is Everything", "Day15\Day15 - Timing is Everything.csproj", "{6926077E-9228-40E3-80E5-1C9404BE72FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16", "Day16\Day16.csproj", "{567D0C00-50F6-4DF8-8D35-34E0569CD25F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16 - Dragon Checksum", "Day16\Day16 - Dragon Checksum.csproj", "{567D0C00-50F6-4DF8-8D35-34E0569CD25F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17", "Day17\Day17.csproj", "{0F916397-4C64-4D2A-B17E-4F77321D69E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17 - Two Steps Forward", "Day17\Day17 - Two Steps Forward.csproj", "{0F916397-4C64-4D2A-B17E-4F77321D69E3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day18", "Day18\Day18.csproj", "{0DD71DA7-9C6C-41FF-BA3A-14581D26DB61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day18 - Like a Rogue", "Day18\Day18 - Like a Rogue.csproj", "{0DD71DA7-9C6C-41FF-BA3A-14581D26DB61}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day19", "Day19\Day19.csproj", "{E3DFCB78-B599-4AEB-8171-2AC600A55A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day19 - An Elephant Named Joseph", "Day19\Day19 - An Elephant Named Joseph.csproj", "{E3DFCB78-B599-4AEB-8171-2AC600A55A02}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day20", "Day20\Day20.csproj", "{7A1DA737-0F35-424C-B609-07CB0B6E2B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day20 - Firewall Rules", "Day20\Day20 - Firewall Rules.csproj", "{7A1DA737-0F35-424C-B609-07CB0B6E2B01}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day21", "Day21\Day21.csproj", "{F661A720-D310-4B32-951D-CFD8BB13B387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day21 - Scrambled Letters and Hash", "Day21\Day21 - Scrambled Letters and Hash.csproj", "{F661A720-D310-4B32-951D-CFD8BB13B387}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day22", "Day22\Day22.csproj", "{27DE9A24-9E21-4AF3-8417-71F1D4968981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day22 - Grid Computing", "Day22\Day22 - Grid Computing.csproj", "{27DE9A24-9E21-4AF3-8417-71F1D4968981}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day23", "Day23\Day23.csproj", "{987D092A-FF55-48CA-B608-34CBC4CEE30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day23 - Safe Cracking", "Day23\Day23 - Safe Cracking.csproj", "{987D092A-FF55-48CA-B608-34CBC4CEE30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day24", "Day24\Day24.csproj", "{576BA06E-17B4-4BCD-A33F-F11F20B831A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day24 - Air Duct Spelunking", "Day24\Day24 - Air Duct Spelunking.csproj", "{576BA06E-17B4-4BCD-A33F-F11F20B831A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoCTools", "AoCTools\AoCTools.csproj", "{34FB5AAB-4093-4B95-8DB3-CA353CE0BAF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoCTools", "AoCTools\AoCTools.csproj", "{34FB5AAB-4093-4B95-8DB3-CA353CE0BAF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
